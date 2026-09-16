@@ -250,4 +250,4 @@ This repository serves as the official landing page for Skype Portable. The soft
 **Get the most recent version of Skype Portable today!**
 
 ---
-**Last updated:** 2026-09-16 11:00:20 UTC
+**Last updated:** 2026-09-16 16:20:00 UTC
